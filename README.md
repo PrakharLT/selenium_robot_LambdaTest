@@ -3,8 +3,9 @@
 step 1 - install the requiremtnts by the command - 
 pip install -r requirements.txt
 
-step 2 - put your LambdaTest Username and Acess key in Tests/webtest.robot file. They are to be inserted in place of 
-  <Username> and <Access_Key> respectively.
+step 2 - put your LambdaTest Username and Acess key in Tests/webtest.robot file. 
+They are to be inserted in place 
+of < Username > and < Access_Key > respectively
 
 step 3 - run the command -
 robot Tests/webtest.robot
